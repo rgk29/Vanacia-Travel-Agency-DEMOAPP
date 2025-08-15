@@ -1,6 +1,28 @@
 # agencedevoyage
 
-A new Flutter project.
+🌍 Vacancia – Mobile Travel Booking Application
+Vacancia is an Android application developed with Flutter and Firebase, designed to simplify the booking of flights, hotels, cars, and organised trips, within a smooth, secure, and multilingual interface (French, English, Arabic).
+
+🧾 Key Features:
+
+Complete booking process with history and cancellation options.
+
+Add accommodations to favourites.
+
+Integrated payment (CIB, Visa, MasterCard) with a secure form.
+
+Sign in via email or Google.
+
+Built-in help chatbot.
+
+Currency selection based on country.
+
+Secure personal space to edit user information.
+
+⚙️ Technologies Used:
+Flutter, Firebase (Auth, Firestore, Cloud Messaging)
+Android Studio, VS Code
+
 
 ## Getting Started
 
