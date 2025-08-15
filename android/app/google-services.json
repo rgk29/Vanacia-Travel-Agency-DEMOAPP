@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735637567234",
+    "project_id": "agv29-4da8a",
+    "storage_bucket": "agv29-4da8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735637567234:android:f38dca269a00fff638341b",
+        "android_client_info": {
+          "package_name": "com.example.agencedevoyage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASOrARLL8cPPE7WQsPHivJhmXQpta1-es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

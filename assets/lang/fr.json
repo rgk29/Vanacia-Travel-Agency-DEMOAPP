@@ -1,0 +1,1076 @@
+{
+    "app_name": "Mon Application",
+    "Changer_la_langue": "Changer la langue",
+    "Welcome": "Bienvenue",
+    "sign_in_Page": "Se connecter",
+    "fullName":"nom et prénom",
+    "Bienvenue_à_Bord":"Bienvenue à Bord",
+    "Créer_un_compte":"Créer un compte",
+    "Nom_complet":"Nom Complet",
+    "Mot_de_passe":"Mot de passe",
+    "Confirmez_le_mot_de_passe":"Confirmez le mot de passe",
+    "Les_mots_de_passe_ne_correspondent_pas":"Les mots de passe ne correspondent pas",
+    "Se_connecter":"Se connecter",
+    "Sinscrire":"S'inscrire",
+    "Déjà_un_compte":"Déjà un compte",
+    "Ce_champ_est_obligatoire":"Ce  champ est obligatoire",
+    "Ou_continuer_avec":"Ou continuer avec",
+    "mot_de_passe_oublie": "Mot de passe oublié ?",
+    "réinitialiser_mdp": "Réinitialisation du mot de passe",
+    "entrez_email_reinit": "Entrez votre email pour recevoir le lien de réinitialisation",
+    "annuler": "Annuler",
+    "envoyer": "Envoyer",
+    "email_envoye": "Email envoyé avec succès ! Vérifiez votre boîte de réception.",
+    
+      "home": "Accueil",
+      "search": "Recherche",
+      "favorites": "Favoris",
+      "profile": "Profil",
+      "search_destinations": "Rechercher des destinations...",
+      "popular_destinations": "Destinations populaires",
+      "recommended_for_you": "Recommandé pour vous",
+      "discover_world": "Découvrez Le Monde",
+      "SignIn": "Se Connecter",
+      "Inscription_réussie":"Inscription réussie !",
+      "Profil": "Profil",
+      "Voulez_vous_vraiment_vous_déconnecter": "Voulez-vous vraiment vous déconnecter ?",
+      "Annuler": "Annuler",
+      "Déconnecter": "Déconnecter",
+      "besoin_daide": "Besoin d'aide",
+      "contactez_nous_pour_toute_demande": "Contactez-nous pour toute demande",
+      "envoyer_email": "Envoyer un email",
+      "verification_mot_de_passe": "Vérification du mot de passe",
+      "mot_de_passe": "Mot de passe",
+      "verifier": "Vérifier",
+      "nouvel_email": "Nouvel email",
+      "entrez_nouvel_email": "Entrez le nouvel email",
+      "continuer": "Continuer",
+      "code_verification_envoye": "Code de vérification envoyé",
+      "code_verification_description": "Code de vérification : {code}",
+      "entrez_code_verification": "Entrez le code de vérification",
+      "code": "Code",
+      "code_incorrect": "Code incorrect",
+      "email_mis_a_jour": "Email mis à jour avec succès",
+      "erreur_mise_a_jour_email": "Erreur lors de la mise à jour de l'email : ",
+      "Erreur_de_chargement_des_données": "Erreur de chargement des données",
+      "Nom_non_renseigné": "Nom non renseigné",
+      "informations_paiement": "Informations de paiement",
+      "securite": "Sécurité",
+      "faq": "FAQ",
+      "qui_sommes_nous": "Qui sommes-nous ?",
+      "bientot_disponible": "Bientôt disponible",
+      "cette_fonctionnalite_arrive_bientot": "Cette fonctionnalité arrive bientôt",
+      "Connectez_vous_pour_accéder_à_votre_profil": "Connectez-vous pour accéder à votre profil",
+      "Annulation_par_l_utilisateur":"Annulation par l'utilisateur",
+      "Erreur_de_connexion_Google":  "Erreur de connexion Google",
+      "Connexion_annulée": "Connexion annulée",
+      
+        "Confirmer_la_suppression": "Confirmer la suppression",
+        "Voulez_vous_vraiment_supprimer_cette_carte": "Voulez-vous vraiment supprimer cette carte ?",
+        
+        "Supprimer": "Supprimer",
+        "Carte_enregistrée_avec_succès": "Carte enregistrée avec succès",
+        "Information_de_Paiement": "Information de Paiement",
+        "Choisissez_votre_méthode_de_paiement": "Choisissez votre méthode de paiement ({step}/3)",
+        "Numéro_de_carte": "Numéro de carte",
+        "16_chiffres_requis": "16 chiffres requis",
+       
+        "Champ_obligatoire": "Champ obligatoire",
+        "Date_dexpiration": "Date d'expiration",
+        "CVV": "CVV",
+        "3_chiffres_requis": "3 chiffres requis",
+        "Enregistrer_la_carte": "Enregistrer la carte",
+        "Cartes_enregistrées": "Cartes enregistrées :",
+        "Active": "Active",
+        "Expire_le": "Expire le",
+          "Re_authentification_requise": "Ré-authentification requise",
+          "Entrez_votre_mot_de_passe": "Entrez votre mot de passe",
+          "Vérifier": "Vérifier",
+          "Email_mis_à_jour_avec_succès": "Email mis à jour avec succès !",
+          "Devise": "Devise",
+          "Pays_de_residence": "Pays de résidence",
+          "Modification_email_avec_succes": "Modification Email Avec Succès",
+          "Veuillez_vous_reconnecter_avec_votre_nouvel_email": "Veuillez vous reconnecter avec votre nouvel email !",
+          "email_update_error": "Erreur de mise à jour de l'email",
+          "reset_email_sent": "Email de réinitialisation envoyé à",
+          "reset_email_error": "Erreur d'envoi d'email de réinitialisation",
+          "settings_saved": "Paramètres enregistrés",
+          "security_privacy": "Sécurité et confidentialité",
+          "Informations_personnelles": "Informations personnelles",
+          "Préférences_régionales": "Préférences régionales",
+          "Documents_de_voyage": "Documents de voyage",
+          "Numéro_de_passeport": "Numéro de passeport",
+          "Enregistrer_les_modifications": "Enregistrer les modifications",
+
+          
+            "chat_help_title": "Centre d'Aide Voyage",
+            "help_question": "Comment pouvons-nous vous aider ?",
+            "write_question_hint": "Écrivez votre question...",
+            
+            "cancel_booking_question": "Comment annuler une réservation ?",
+            "payment_methods_question": "Quels sont les modes de paiement acceptés ?",
+            "luggage_policy_question": "Quelle est la politique des bagages ?",
+            "change_email_question": "Puis-je modifier Mon Mail ?",
+            
+            "cancel_booking_response": "Pour annuler une réservation :\n1. Allez dans 'Mes Réservation'\n2. Sélectionnez la réservation\n3. Cliquez sur 'Annuler'",
+            "payment_methods_response": "Modes de paiement acceptés :\n• Cartes Visa/Mastercard\n• CIB",
+            "luggage_policy_response": "Bagages autorisés :\n• Cabine: 10kg max\n• Soute: 23kg max \n• Bagage Premium: 32kg max \n• a noter : les bagage plus de 10kg aurait des frais supplémentaire    ",
+            "change_email_response": "Pour modifier votre email : Aller sur profil\n• Sélectionner Sécurité\n• Modifier votre email ! 👌",
+            "default_response": "Merci pour votre message !\nNotre équipe vous contactera pour plus d'informations sur ce sujet. 😊",
+            "cancel_keywords": "annuler, réservation, cancel",
+            "payment_keywords": "paiement, payer, carte, payment",
+            "luggage_keywords": "bagage, valise, sac, baggage",
+            "email_keywords": "email, mail, modifier",
+            "hotel": "Hôtel",
+            "flight": "Vol",
+            "car": "Voiture",
+            "organized_trip": "Voyage Organisé",
+            
+              "Recherche_de_vols": "Recherche de vols",
+              "Aller_simple": "Aller simple",
+              "Aller_retour": "Aller-retour",
+              "Départ": "Départ",
+              "Arrivée": "Arrivée",
+              "Date_daller": "Date d'aller",
+              "Date_de_retour": "Date de retour",
+              "Veuillez_sélectionner_une_date_de_retour": "Veuillez sélectionner une date de retour",
+              "La_date_de_retour_doit_être_après_la_date_daller": "La date de retour doit être après la date d'aller",
+              "Les_aéroports_de_départ_et_darrivée_doivent_être_différents": "Les aéroports de départ et d'arrivée doivent être différents",
+              "Classe": "Classe",
+              "Economique": "Économique",
+              "Affaires": "Affaires",
+              "Premiere": "Première",
+              "Passagers": "Passagers",
+              "Adultes_(18)": "Adultes (+18)",
+              "Enfants_(2_11_ans)": "Enfants (2-11 ans)",
+              "Ados_(12_17_ans)": "Ados (12-17 ans)",
+              "Rechercher": "Rechercher",
+              "Erreur": "Erreur",
+              "Aucun_résultat": "Aucun résultat",
+              "Aucun_vol_trouvé_pour_ces_critères": "Aucun vol trouvé pour ces critères",
+              "Ex_CDG_ou_Paris": "Ex: \"CDG\" ou \"Paris\"",
+              "OK": "OK",
+              "airportNotFound": "Aéroport non trouvé pour : \"{input}\"",
+              "tips": "Conseils :",
+              "airportSearchTips": "- Utilisez le code (ex: ALG)\n- Ou le nom de ville (ex: ALGER)\n- Ou un mot-clé (ex: DZ)",
+              
+                "Résultats_des_vols": "Résultats des vols",
+                "departureFlight": "Vol départ",
+                "returnFlight": "Vol retour",
+                "passengerCount": "Passagers",
+                "adults": "Adultes",
+                "teens": "Ados",
+                "children": "Enfants",
+                "tripType": "Type de voyage",
+                "Aller_Simple": "Aller simple",
+                "Aller_Retour": "Aller-retour",
+                "Réserver": "Réserver",
+               
+                "Vol_Direct": "Vol direct",
+                "Compagnie": "Compagnie",
+                "Adultes": "Adultes",
+                "Ados": "Ados",
+                "Enfants": "Enfants",
+                "Aller": "Aller",
+                "Retour": "Retour",
+                "passager": "passager",
+                "Total_pour": "Total pour",
+                "Vols_trouvés": "vols trouvés",
+              
+                  "Veuillez_sélectionner_un_siège": "Veuillez sélectionner un siège",
+                  "Siège_enregistré_avec_succès": "Siège enregistré avec succès",
+                  "Erreur_Lors_De_La_Sélection_du_Siége": "Erreur lors de la sélection du siège",
+                  "Sélectionnez_votre_siège": "Sélectionnez votre siège",
+                  "Total": "Total",
+                  "Réinitialiser": "Réinitialiser",
+                  "Enregistrer": "Enregistrer",
+                  "Veuillez vous connecter pour enregistrer.": "Veuillez vous connecter pour enregistrer.",
+                  
+                    "Veuillez_sélectionner_un_moyen_de_paiement": "Veuillez sélectionner un moyen de paiement",
+                    "Confirmer_le_paiement": "Confirmer le paiement",
+                    "Confirmer_vous_le_paiement_avec_la_carte": "Confirmez-vous le paiement avec la carte",
+                    "✅_Paiement_réussi": "✅ Paiement réussi",
+                    "Aucune_carte_enregistrée": "Aucune carte enregistrée",
+                    "EXP": "Exp",
+                    "Payer": "Payer",
+                    "Non_précisée": "Non précisée",
+                    "Carte": "Carte",
+                    "Non": "Non",
+                    "Oui": "Oui",
+                    
+                      "Réservation": "Réservation",
+                      "Infos_personnelles": "Informations personnelles",
+                      "Continuer": "Continuer",
+                    
+                      "Choix_du_siège": "Choix du siège",
+                      "Paiement": "Paiement",
+                      "Détails_Du_Vol_🛫": "Détails du vol 🛫",
+                      "Veuillez_choisir_un_moyen_de_paiement": "Veuillez choisir un moyen de paiement",
+                      "Passager": "Passager",
+                    
+                      "Email": "Email",
+                      "Passeport": "Passeport",
+                      "Adresse": "Adresse",
+                      "Code_postal": "Code postal",
+                      "Numéro_de_téléphone": "Numéro de téléphone",
+                      "Genre": "Genre",
+                      "Male": "Homme",
+                      "Female": "Femme",
+                      "Other": "Autre",
+                      "Pays": "Pays",
+                      "Algeria": "Algérie",
+                      "France": "France",
+                      "USA": "États-Unis",
+                      "Spain": "Espagne",
+                      "Germany": "Allemagne",
+                      "Arab Emirates": "Émirats Arabes",
+                      "Informations_enregistrées": "Informations enregistrées",
+                      "Erreur_de_chargement_dutilisateur": "Erreur de chargement utilisateur",
+                      "Erreur_denregistrement": "Erreur d'enregistrement",
+                      "Voir_mon_billet": "Voir mon billet",
+                      "Votre_réservation _a_été_complétée_avec_succès": "Votre réservation a été complétée avec succès",
+                      
+                        "Détails_du_vol": "Détails du vol",
+                        "Veuillez_vous_connecter_pour_réserver": "Veuillez vous connecter pour réserver",
+                        "Réservation_confirmée": "Réservation confirmée !",
+                      
+                        "Prix_total": "Prix total",
+                        "Détail_des_passagers": "Détail des passagers",
+                       
+                        "Adolescents": "Adolescents",
+                        
+                          "connectez_vous_dabord": "Connectez-vous d'abord",
+                          "Détails_de_la_réservation": "Détails de la réservation",
+                          "utilisateur_non_trouve": "Utilisateur non trouvé",
+                          "agence_de_location": "Agence de location : {agency}",
+                          "Lieu_de_prise_en_charge": "Lieu de prise en charge ",
+                          "lieu_de_retour": "Lieu de retour : {returnLocation}",
+                          "politique_annulation": "Politique d'annulation :Annulation gratuite jusqu'a 6h avant de la prise en charge",
+                          "depot_garantie": "Dépôt de garantie : {amount}",
+                          "prix_total": "Prix total : {total}",
+                          "confirmer_la_reservation": "Confirmer la réservation",
+                          "specifications_vehicule": "{type} - {transmission} - {doors} portes",
+                          "non_specifie": "Non spécifié",
+                          "erreur": "Erreur",
+                          "Montant_total":"Montant Total",
+                            "Confirmation_de_paiement": "Confirmation de paiement",
+                            "Voir_les_détails_de_ma_réservation": "Voir les détails de ma réservation",
+                            
+                              "personal_information": "Informations personnelles",
+                              "full_name": "Nom complet",
+                              "email": "Adresse email",
+                              "passport_number": "Numéro de passeport",
+                              "phone_number": "Numéro de téléphone",
+                              "genre": "Genre",
+                          
+                              "next": "Suivant",
+                              "required_field": "Ce champ est obligatoire",
+                              "invalid_email": "Email invalide",
+                              "invalid_passport": "Numéro de passeport invalide (6 caractères minimum)",
+                              "invalid_phone": "Numéro de téléphone invalide (8 chiffres minimum)",
+                              "utilisateur_non_connecte": "Utilisateur non connecté",
+                              "erreur_sauvegarde": "Erreur de sauvegarde: {error}",
+                              
+                                "Location_de_voiture": "Location de voiture",
+                               
+                                "Lieu_de_restitution": "Lieu de restitution",
+                                "Date_de_location": "Date de location",
+                                "date_de_retour": "Date de retour",
+                                "Heure_de_prise_en_charge": "Heure de prise en charge",
+                                "rechercher": "Rechercher",
+                                "Sélectionner": "Sélectionner",
+                                "veeuillez_selectionner_des_lieux_valides": "Veuillez sélectionner des lieux valides",
+                                "veeuillez_selectionner_les_dates_et_heures": "Veuillez sélectionner les dates et heures",
+                                "veeuillez_vous_connecter": "Veuillez vous connecter",
+                                "format_de_date_heure_invalide": "Format de date/heure invalide",
+                                "champ_obligatoire": "Ce champ est obligatoire",
+                               
+                                 
+                                  "vous_devez_etre_connecte_pour_voir_les_details": "Vous devez être connecté pour voir les détails",
+                                 
+                                  "Détails_de_la_location": "Détails de la location",
+                                  "lieu_de_prise_en_charge": "Prise en charge",
+                                  "retour": "Retour",
+                                  "Coûts": "Coûts",
+                                  "Prix_journalier": "Prix journalier",
+                                  
+                                  "prix_journalier":"Prix journalier/ {price}",
+                                  "Durée_location": "Durée location", 
+                                  "Dépôt_de_garantie": "Dépôt de garantie",
+                                  "Total_à_payer": "Total à payer",
+                                  "Réservation_Confirmer_👌": "Confirmer la réservation 👌",
+                                 "Confirmer_la_réservation":"Confirmer la réservation",
+                                  "Réservation_enregistrée_avec_succès": "Réservation enregistrée avec succès",
+                                  "erreur_de_sauvegarde": "Erreur de sauvegarde: {error}",
+                                  "climatisation": "Climatisation",
+                                  "pas_de_climatisation": "Pas de climatisation",
+                                
+                                    "resultats_recherche": "Résultats de la recherche",
+                                    "portes": "portes",
+                                    "jour": "jour",
+                                    "total": "Total",
+                                    "Voir_les_détails": "Voir les détails",
+                                   
+                                    "disponibilite": "Disponible maintenant",
+                                    "non_disponible": "Non disponible",
+                                    "specifications_vehiculee": "{type} - {doors} portes",
+                                    "Prise_en_charge": "Prise en charge",
+                                    
+                                    
+                                      "no_results": "Aucun résultat trouvé",
+                                      "agency": "Agence",
+                                      "transmission": "Transmission",
+                                      "ac": "Climatisation",
+                                      "yes": "Oui",
+                                      "no": "Non",
+                                      "deposit": "Caution",
+                                      "total_price": "Prix total",
+                                      "book_now": "Réserver maintenant",
+                                      "doors": "Portes",
+                                      
+                                        "Filtres_avances": "Filtres avancés",
+                                        "Prix": "Prix",
+                                      
+                                        "Caution": "Caution",
+                                        "Montant_de_la_caution": "Montant de la caution",
+                                        "Caractéristiques": "Caractéristiques",
+                                        "Type_de_vehicule": "Type de véhicule",
+                                        "Transmission": "Transmission",
+                                        "Agence_de_location": "Agence de location",
+                                        "Options": "Options",
+                                        "Climatisation": "Climatisation",
+                                        "Indifférent": "Indifférent",
+                                      
+                                  
+                                        "Appliquer_les_filtres": "Appliquer les filtres",
+
+
+                                        
+                                          "Montparnasse_Daguerre": "Montparnasse Daguerre",
+                                          "94_Rue_Daguerre": "94 Rue Daguerre",
+                                          "Paris": "Paris",
+                                          "Ile_de_France": "Île-de-France",
+                                         
+                                          "description1":
+                                            "Idéalement situé dans le 14e arrondissement de Paris, Montparnasse Daguerre propose des chambres non-fumeurs avec Wi-Fi gratuit, une réception ouverte 24h/24 et la climatisation. À proximité des jardins du Luxembourg et du Paris Expo. Idéal pour les couples.",
+                                          "paris": "Paris",
+                                         
+                                          "france": "France",
+                                          "14th_arrondissement": "14e arrondissement",
+                                          "wifi_gratuit": "Wi-Fi gratuit",
+                                          "non-fumeur": "Non-fumeur",
+                                         
+                                          "montparnassedaguerre": "Montparnasse Daguerre",
+
+                                      
+  "results_count": "Résultats ({count})"
+,
+
+  "price_per_night_range": "Prix par nuit : {min} - {max}",
+  
+    "Type_de_logement": "Type de logement",
+    "Équipements": "Équipements",
+    "Types_de_chambre": "Types de chambre",
+   
+    "Appliquer": "Appliquer",
+      "price_per_night": "/nuit",
+      "equipments": "Équipements",
+      "room_types_available": "Types de chambre disponibles",
+      "select": "Sélectionner",
+      "nearby": "À proximité",
+      "hotel_rules": "Règles de l'hôtel",
+      "continue_reservation": "Continuer la réservation",
+      "roomTypes": {
+        "double": "Chambre Double",
+        "single": "Chambre Simple",
+        "triple": "Chambre Triple",
+        "family": "Chambre Familiale",
+    "suite": "Suite"
+      },
+   
+      "Check_in": "Arrivée",
+      "Check_out": "Quitter L'hotel",
+      "Animaux": "Animaux",
+  "Non_acceptés": "Non acceptés",
+   
+   
+      "gardens": "Jardins",
+  "restaurants": "Restaurants",
+  "garden_of_the_3_cornets_mill_150m": "Jardin du Moulin des Trois Cornets – à 150m",
+  "françoise_heritier_garden_500m": "Jardin Françoise Héritier – à 500m",
+  "denfert_rochereau_square_600m": "Square Denfert-Rochereau – à 600m",
+  "reunion_island_50m": "Île de la Réunion – à 50m",
+  "aasman_50m": "Aasman – à 50m",
+  "sl_sushi_50m": "SL Sushi – à 50m",
+   "Arc_de_Triomphe": "Arc de Triomphe (7 min à pied)",
+  "Parc_Monceau": "Parc Monceau (900m)",
+  "Place_Charles_de_Gaulle": "Place Charles de Gaulle (900m)",
+   "nearby_Monuments": "Monuments",
+  "nearby_Restaurants": "Restaurants",
+  "Kurry_Up": "Kurry Up (5m)",
+  "Jem_XVII": "Jem XVII (10m)",
+  "En_Cas_dEncas": "En Cas d'Encas (10m)",
+ 
+  
+    "facilities": {
+      "wifi": "Wifi",
+      "tv": "Télévision",
+      "parking": "Parking",
+      "pool": "Piscine",
+      "restaurant": "Restaurant",
+      "spa": "Spa",
+      "airportShuttle": "Navette aéroport",
+      "nonSmokingRooms": "Chambres non fumeur",
+      "frontDesk24h": "Réception 24h",
+      "heating": "Chauffage",
+      "housekeeping": "Service de ménage",
+      "luggageStorage": "Consigne à bagages",
+      "airConditioning": "Climatisation",
+      "roomService": "Service d'étage",
+      "familyRooms": "Chambres familiales",
+      "breakfast": "Petit-déjeuner",
+      "kitchen": "Cuisine",
+      "garden": "Jardin",
+      "petsAllowed": "Animaux acceptés"
+  
+      },
+      "propertyTypes": {
+        "hotel": "Hôtel",
+        "apartment": "Appartement",
+        "vacationHome": "Maison de vacances",
+        "villa": "Villa"
+      }
+    ,
+    
+      "price_for_nights": "pour {nights} nuits",
+       "Voir_details": "Voir détails",
+       
+
+
+
+ 
+  "Hotel_Monceau_Wagram": "Hotel Monceau Wagram",
+ 
+  "address_street": "7, Rue Rennequin",
+  "description": "Situé dans une rue calme du 17ème arrondissement de Paris, à 7 minutes de l'Arc de Triomphe. Chambres avec WiFi gratuit, TV LCD et plateau de courtoisie. Petit-déjeuner bio et service de navette aéroport.",
+ 
+ 
+  
+  "Carte_bancaire": "Carte bancaire",
+  "Espèces": "Espèces",
+  "keywords_17ème": "17ème",
+  "petit_déjeuner_bio": "petit-déjeuner bio",
+  "navette_aéroport": "navette aéroport",
+  "chambres_familiales": "chambres familiales",
+   "promo_1": "Spécial été 2025 !🛫",
+  "promo_2": "Jusqu'à -50% sur les hôtels 🫣",
+  "promo_3": "Offres voyages limitées",
+  "promo_4": "Dernières places disponibles !",
+  "promo_5": "CLIQUEZ ICI pour profiter des promos 👌",
+  "night": "nuit",
+    "Veuillez_selectionner_un_type_de_chambre": "Veuillez sélectionner un type de chambre",
+    "promo":"promo",
+
+
+
+      "Vincci_Maritimo": "Vincci Maritimo",
+  "Llull_340": "Llull 340",
+  "Barcelone": "Barcelone",
+  "Sant_Martí": "Sant Martí",
+  "Espagne": "Espagne",
+  "Hôtel_design_à_500m_de_la_plage": "Hôtel design à 500m de la plage avec jardin zen japonais. Chambres au parquet avec vue sur parc ou jardin, restaurant méditerranéen et accès rapide au métro (centre-ville en 15min). Service 24h/24.",
+
+  "Nature": "Nature",
+  "Transport": "Transport",
+  "Restaurants": "Restaurants",
+
+  "Plage_Mar_Bella_500m": "Plage Mar Bella (500m)",
+  "Parc_Diagonal_Mar_10min": "Parc Diagonal Mar (10min)",
+  "Jardin_zen_sur_place": "Jardin zen (sur place)",
+  "Métro_Selva_de_Mar_2min": "Métro Selva de Mar (2min)",
+  "CCIB_10min": "CCIB (10min)",
+  "Restaurant_Sol_150m": "Restaurant Sol (150m)",
+  "Los_Toneles_200m": "Los Toneles (200m)",
+ 
+  "Acceptés_supplément": "Acceptés (supplément)",
+   
+  "description12": "Hôtel 3 étoiles élégant proche de l'Arc de Triomphe et du parc Monceau. Chambres modernes, wifi gratuit, navette aéroport, idéal pour les couples et les familles."
+
+ ,
+ 
+  "Hôtel_Elysées_Paris": "Hôtel Elysées Paris",
+  "description13": "Situé à 180 mètres de l'Arc de Triomphe et des Champs-Élysées. Chambres climatisées avec TV écran plat, station d'accueil iPod, Wi-Fi gratuit et machine à café Nespresso. Petit-déjeuner buffet, réception 24h/24 et service de navette aéroport.",
+  "Monuments": "Monuments",
+  "Arc_de_Triomphe_300m": "Arc de Triomphe (300m)",
+  "Palais_des_Congrès_1km": "Palais des Congrès (1km)",
+  "Louvre_metro": "Louvre (accès direct métro)",
+
+  "Metro_Charles_de_Gaulle": "Métro Charles de Gaulle-Étoile (2min à pied)",
+  "RER_A_CDG_Etoile": "RER A Charles de Gaulle-Étoile",
+
+  "Cambridge": "Cambridge (10m)",
+  "Zenzan": "Zenzan (40m)",
+  "Sarl_les_Etoiles": "Sarl les Etoiles (10m)",
+
+
+    "Apartment_Matignon_St_Honore_by_Studio_Prestige": "Apartment Matignon St Honoré by Studio Prestige",
+
+  "Île_de_France": "Île-de-France",
+ 
+
+  "description4": "Appartement moderne au rez-de-chaussée avec kitchenette équipée (machine à café, micro-ondes, bouilloire), climatisation et WiFi gratuit. Idéalement situé à 17 minutes de l'Opéra Garnier et 19 minutes de l'Arc de Triomphe.",
+
+  "Culture": "Culture",
+
+"Destinations_populaires": "Destinations populaires",
+  "help_title": "Pouvons-nous vous aider ?",
+  "go_to_help_center": "Aller au centre d'aide",
+  "Musée_Jacquemart_André_400m": "Musée Jacquemart-André (400m)",
+  "Église_Saint_Philippe_du_Roule_350m": "Église Saint-Philippe-du-Roule (350m)",
+  "Parc_Monceau_900m": "Parc Monceau (900m)",
+  "Gare_Saint_Lazare_1km": "Gare Saint-Lazare (1km)",
+  "Métro_Miromesnil_5min": "Métro Miromesnil (5min à pied)",
+
+  "Check-in": "Arrivée",
+  "Check-out": "Départ",
+  "Fumeurs": "Fumeurs",
+  "Fêtes": "Fêtes",
+  "Âge_minimum": "Âge minimum",
+
+  "Interdit": "Interdit",
+  "Interdites": "Interdites",
+  "18_ans": "18 ans",
+   "street": "34 Rue La Boétie",
+
+    "Résidence_Avalon": "Résidence Avalon",
+  "description_htl5": "Résidence avec réception 24h/24 à 5 minutes de la Gare du Nord. Studios et appartements avec kitchenette, WiFi gratuit et accès direct au métro. Idéal pour visiter le Sacré-Cœur (15min) et le Louvre.",
+ 
+  "Gare_du_Nord_(5min_à_pied)": "Gare du Nord (5min à pied)",
+  "Sacré-Cœur_(15min_à_pied)": "Sacré-Cœur (15min à pied)",
+  "Galeries_Lafayette_(accès_direct_métro)": "Galeries Lafayette (accès direct métro)",
+  "Métro_Poissonnière_(550m)": "Métro Poissonnière (550m)",
+  "RER_B_(2min)_-_CDG_Connecté": "RER B (2min) - CDG Connecté",
+ 
+  "Couvre_feu": "Couvre-feu",
+  
+  "Sur_demande_(supplément)": "Sur demande (supplément)",
+ 
+ 
+ 
+  "street_avalon": "131 boulevard Magenta",
+    "PARIS_AUTHENTIC_HOUSE_-_Villa_1920": "PARIS AUTHENTIC HOUSE - Villa 1920",
+  "description_htl6": "Villa historique des années 1920 avec jardin et terrasse. Capacité groupe, station de recharge électrique et WiFi haut débit (40 Mbps). À 6 km de Notre-Dame et 7 km du Louvre. Parking privé inclus.",
+ 
+  "Sainte-Chapelle_(6km)": "Sainte-Chapelle (6km)",
+  "Jardin_du_Luxembourg_(7km)": "Jardin du Luxembourg (7km)",
+  "Métro_ligne_7_(accès_direct)": "Métro ligne 7 (accès direct)",
+  "Parc_de_Choisy_(1km)": "Parc de Choisy (1km)",
+  "Jardin_Berthe_Morisot_(1.3km)": "Jardin Berthe Morisot (1.3km)",
+  
+  "Silence": "Silence",
+
+  "Capacité_max": "Capacité max",
+ 
+  "Sur_demande": "Sur demande",
+  "street_authentic_villa": "48 Rue Jules Ferry",
+    "Room_S_-_Louvre_Museum_(Shared_Bathroom)": "Room S - Musée du Louvre (Salle de bain partagée)",
+  "description_htl7": "Chambre privée avec salle de bain partagée chez l'habitant, à 5 minutes du Louvre. WiFi gratuit, accueil bilingue (anglais/français) et proximité immédiate des sites culturels majeurs.",
+
+  "Loisirs": "Loisirs",
+  "Musée_du_Louvre_(5min_à_pied)": "Musée du Louvre (5min à pied)",
+  "Centre_Pompidou_(1km)": "Centre Pompidou (1km)",
+  "Notre-Dame_(18min_à_pied)": "Notre-Dame (18min à pied)",
+  "Patinoire_saisonnière": "Patinoire saisonnière",
+  "Location_de_bateaux": "Location de bateaux",
+ 
+  "Salle_de_bain": "Salle de bain",
+  
+  "Partagée_avec_hôte": "Partagée avec hôte",
+  "street_louvre_room": "15 Rue du Louvre",
+   "Catalonia_Park_Putxet": "Catalonia Park Putxet",
+  "description_htl11": "Hôtel avec piscine sur le toit et vue panoramique sur Barcelone. Chambres climatisées avec minibar gratuit, salle de sport moderne et proximité du parc Güell. Petit-déjeuner buffet et service de chambre 24h/24.",
+  "Park_Güell_(600m)": "Park Güell (600m)",
+  "Casa_Vicens_(950m)": "Casa Vicens (950m)",
+  "Métro_Lesseps_(600m)": "Métro Lesseps (600m)",
+  "Zone_gastronomique_Gràcia_(15min)": "Zone gastronomique Gràcia (15min)",
+  "Jardines_de_Mercè_Rodoreda_(650m)": "Jardins de Mercè Rodoreda (650m)",
+  "street_catalonia_park_putxet": "Putget 68",
+   "Paseo_de_Gracia_Apartments": "Paseo de Gracia Apartments",
+  "description_htl13": "Appartements design en plein cœur de Barcelone, à l'intersection des sites modernistes de Gaudí. Cuisine entièrement équipée (lave-linge inclus), balcon privé et climatisation. Idéal pour explorer les boutiques de mode et l'architecture iconique.",
+  "Casa_Lleó_Morera_(400m)": "Casa Lleó Morera (400m)",
+  "Casa_Calvet_(400m)": "Casa Calvet (400m)",
+  "Passeig_de_Gràcia_(sur_place)": "Passeig de Gràcia (sur place)",
+  "Tapas_&_Beer_(10m)": "Tapas & Beer (10m)",
+  "Sabor_Sichuan_(50m)": "Sabor Sichuan (50m)",
+  "street_paseo_de_gracia_apartments": "Gran Via de les Corts Catalanes 638"
+,
+ "Balcon": "Disponible selon appartement",
+   "hotel_name_htl14": "Oasis Appartements & Studios Centre Historique",
+  "description_htl14": "Appartements neufs en hypercentre avec machine à café et lave-linge intégrés. À 5 minutes à pied de la Place de Catalogne et du Palais de la Musique Catalane. Climatisation, WiFi haute vitesse et équipements premium pour longs séjours.",
+  "street_oasis_apartments": "6 Plaça d'Urquinaona",
+  "nearby_palais_musique": "Palais de la Musique (3min)",
+  "nearby_casa_batllo": "Casa Batlló (15min)",
+  "nearby_metro_urquinaona": "Métro Urquinaona (2min)",
+  "nearby_rambla_catalunya": "Rambla de Catalunya (5min)",
+  "nearby_boutiques_passeig": "Boutiques Passeig de Gràcia (7min)",
+  "rule_silence": "Silence",
+  "rule_silence_value_htl14": "20h-9h",
+  "rule_equipements": "Équipements",
+  "rule_equipements_value": "Machine à café/lave-linge inclus",
+  "Commerces":"Commerce",
+   "hotel_name_htl15": "Appartement Barcelona Republica",
+  "description_htl15": "Lofts design avec piscine panoramique sur le toit et accès direct au métro. Cuisine haut de gamme (lave-vaisselle inclus), service conciergerie 24h/24 et entrée offerte au Musée Égyptien. À 15min de la plage.",
+  "street_barcelona_republica": "Pujades 120",
+  "nearby_tour_agbar": "Tour Agbar (800m)",
+  "nearby_glories": "Centre commercial Glories (10min)",
+  "nearby_plage": "Plage (15min)",
+  "nearby_musee_egyptien": "Musée Égyptien (accès gratuit)",
+  "nearby_parc_poblenou": "Parc Poble Nou (15min)",
+  "rule_bonus": "Bonus",
+  "rule_bonus_value": "Entrée Musée Égyptien offerte",
+  "rule_service": "Service",
+  "rule_service_value": "Conciergerie 24h",
+    "hotel_name_htl16": "Hôtel Derby",
+  "description_htl16": "Hôtel culturel à 20min du Camp Nou. Décoration artistique avec œuvres de Miró et Tàpies, accès exclusif au complexe sportif voisin (piscine/salle de sport). Expérience culinaire unique : pizzeria italienne et bar péruvien.",
+  "street_derby": "Loreto 21-25",
+  "nearby_camp_nou": "Camp Nou (20min à pied)",
+  "nearby_gran_derby": "Complexe sportif Gran Derby (sur site)",
+  "nearby_collection_miro": "Collection Miró/Tàpies (sur place)",
+  "nearby_fira": "Fira de Barcelona (20min)",
+  "rule_installations": "Installations",
+  "rule_installations_value": "Piscine/salle de sport partagées",
+  "rule_art": "Art",
+  "rule_art_value": "Visite libre de la collection"
+,
+"Sport":"Sport",
+"Art":"Art",
+  "hotel_name_htl17": "Alcam Futbol Pequeño",
+  "description_htl17": "Villa résidentielle calme à 1.6km du Camp Nou. 2 chambres spacieuses, jardin arboré et cuisine complète avec lave-vaisselle. Parking privé (supplément) et accès rapide au centre-ville via Sants (1.5km). Idéal familles de supporters.",
+  "street_alcam": "5 Carrer Gerard Piera",
+ 
+  "nearby_fcb": "Complexe sportif FCB (2km)",
+  "nearby_fontaine": "Fontaine Magique (2.7km)",
+  "nearby_place_espagne": "Place d'Espagne (2.4km)",
+  "rule_parking": "Parking",
+  "rule_parking_value": "15€/jour",
+  "rule_animaux": "Animaux",
+  "rule_animaux_value": "Interdit",
+  "rule_capacite": "Capacité max",
+  "rule_capacite_value": "4 personnes",
+  "Foot":"Football",
+    "hotel_name_htl18": "Aparthotel Bertrán",
+  "description_htl18": "Aparthotel calme avec piscine et salle de sport, à 5 minutes des transports. Appartements spacieux avec kitchenette (micro-ondes/cafetière) et accès 24h/24. Idéal pour explorer le Tibidabo et les jardins de la Tamarita.",
+  "street_bertran": "Calle Bertrán 150",
+  "nearby_tamarita": "Jardins de la Tamarita (600m)",
+  "nearby_collserola": "Parc de Collserola (accès rapide)",
+  "nearby_bells_coffee": "Bell's Coffee (50m)",
+  "nearby_luciano": "Casa Luciano (100m)",
+    "hotel_name_htl21": "Hotel Hammamet",
+  "description_htl21": "Situé à Alger, l'établissement 4 étoiles Hotel Hammamet comprend une piscine extérieure ouverte en saison, une terrasse et un restaurant. Cet hôtel met à votre disposition un parking privé gratuit et une connexion Wi-Fi gratuite.\n\nVous bénéficierez d'une bouilloire. Certains hébergements comprennent également un balcon et d'autres offrent une vue sur la mer.\n\nUn petit-déjeuner buffet, continental ou anglais/irlandais complet est servi sur place.\n\nParlant anglais, espagnol et français, le personnel de la réception se fera un plaisir de vous donner des conseils pratiques sur la région.",
+  "street_ain_benian": "Route de Ain Benian",
+  "nearby_ben_rouilah": "Domaine Ben Rouilah (12 km)",
+  "nearby_cafe_1": "Café (1,4 km)",
+  "nearby_cafe_2": "Cafétéria (3,2 km)",
+  "nearby_cafe_3": "Café (2,1 km)",
+  "nearby_plage_djamila": "Plage d'El Djamila (4,7 km)",
+  "nearby_plage_bahdja": "Plage El Bahdja (5 km)",
+  "nearby_plage_dunes": "Plage Les Dunes (6 km)",
+  "rule_checkin": "Check-in",
+  "rule_checkin_value": "11:30 - 12:00",
+  "rule_checkout": "Check-out",
+  "rule_checkout_value": "09:00 - 10:00",
+  "rule_annulation": "Annulation",
+  "rule_annulation_value": "Conditions variables selon hébergement",
+  "rule_langues": "Langues",
+  "rule_langues_value": "Anglais, Espagnol, Français"
+,"Plages":"Plages",
+  "hotel_name_htl22": "Audin Hotel",
+  "description_htl22": "Situé à Alger, l'établissement Audin Hotel propose un bar. Cet hôtel 3 étoiles propose un restaurant ainsi que des hébergements dotés de la climatisation, d'une connexion Wi-Fi gratuite et d'une salle de bains privative.\n\nTous les hébergements comprennent un bureau. Vous profiterez d'une télévision à écran plat et d'articles de toilette gratuits.\n\nUn petit-déjeuner continental est servi sur place.",
+  "street_mikideche": "04, Rue MIKIDECHE",
+  
+  "nearby_kids_park": "Kids Park (9 km)",
+  "nearby_fatma_nsoumer": "Aire de jeux Fatma Nsoumer (17 km)",
+  "nearby_cafe_11": "Café (10 m)",
+  "nearby_tea_timimoun": "Thé Timimoun (100 m)",
+  "nearby_cafeteria_andalous": "Cafétéria El Andalous (150 m)",
+  "rule_petit_dejeuner": "Petit-déjeuner",
+  "rule_petit_dejeuner_value": "Continental inclus"
+,
+  "hotel_name_htl23": "AD HOTEL HYDRA",
+  "description_htl23": "Situé à Alger, l'établissement 4 étoiles AD HOTEL HYDRA comprend un salon commun, une terrasse et un bar. Il propose un restaurant, un jardin, un sauna et un bain à remous. Cet hôtel possède une piscine intérieure, un hammam et un service d'étage.\n\nL'établissement propose des hébergements dotés de la climatisation, d'un bureau, d'une bouilloire, d'un coffre-fort, d'une télévision à écran plat, d'un balcon et d'une salle de bains privative pourvue d'une douche. Des serviettes et du linge de lit sont fournis.\n\nL'établissement AD HOTEL HYDRA sert un petit-déjeuner buffet ou continental.\n\nL'établissement AD HOTEL HYDRA dispose d'un spa.",
+  "street_djenane_boursas": "Djenane el boursas",
+ 
+  "nearbyy_kids_park": "Kids Park (15 km)",
+  "nearby_coffee_box": "Coffee Box (2,3 km)",
+  "nearby_signature_restaurant": "Signature Restaurant (3,3 km)",
+  "nearby_cafe_salam": "Café El Salam (2,2 km)",
+
+ 
+  "rule_petitt_dejeuner_value": "Buffet ou continental",
+  "rule_spa": "Spa",
+  "rule_spa_value": "Accès inclus",
+  "rule_navette": "Navette",
+  "rule_navette_value": "Service disponible",
+    "hotel_name_htl24": "Four Points by Sheraton Oran",
+  "description_htl24": "Situé à Oran, l'établissement Four Points by Sheraton Oran comprend une salle de sport, un salon commun, une terrasse et un restaurant. Il possède un bar et est installé à 10 km de : Oran Santa Cruz fortress. L'établissement propose une réception ouverte 24h/24, des transferts aéroport, un service d'étage et une connexion Wi-Fi gratuite.\n\nL'établissement propose des hébergements dotés de la climatisation, d'un bureau, d'une machine à café, d'un réfrigérateur, d'un minibar, d'un coffre-fort et d'une télévision à écran plat. Ils comprennent également une salle de bains privative pourvue d'un bidet. Des serviettes et du linge de lit sont fournis.\n\nUn petit-déjeuner buffet, continental ou halal est servi sur place.\n\nCet établissement 4 étoiles dispose d'un sauna.",
+  "street_route_falaises": "Route des falaises",
+  "nearby_santa_cruz": "Forteresse Santa Cruz d'Oran (7 km)",
+  "nearby_bar_rendezvous": "Bar Rendez-Vous (650 m)",
+  "nearby_diplomate": "Diplomate (900 m)",
+  "nearby_netbox": "Cybercafé Netbox (1,2 km)",
+  
+  "rule_checkin_valuee": "À partir de 15:00 (Pièce d'identité et carte de crédit requises)",
+ 
+  "rule_enfants": "Enfants",
+  "rule_enfants_value": "Tous les enfants sont les bienvenus",
+  "rule_lits_bebe": "Lits bébé",
+  "rule_lits_bebe_value": "Sur demande (gratuit)",
+ 
+  "rule_navette_valuee": "Gratuite",
+  "rule_pre_enregistrement": "Pré-enregistrement",
+  "rule_pre_enregistrement_value": "Heure d'arrivée à indiquer à l'avance"
+
+,
+  "hotel_name_htl26": "IBIRIS",
+  "description_htl26": "L'établissement IBIRIS se trouve à Oran, à 8,9 km de la forteresse Santa Cruz. Cet hôtel 3 étoiles propose un salon commun, terrasse, restaurant et parking gratuit. Services inclus : concierge, bagagerie, réception 24h/24, navette aéroport et Wi-Fi gratuit.\n\nPetit-déjeuner de qualité servi sur place. Situation idéale à proximité de cafés et restaurants.",
+  "street_66_maktaa": "66 Hai el Maktaa",
+ "nearby_eden": "Éden (200 m)",
+ "rule_concierge": "Concierge",
+  "rule_concierge_value": "Service disponible",
+  "rule_bagagerie": "Bagagerie",
+  "rule_bagagerie_value": "Service inclus",
+    "hotel_name_htl25": "Liberté Hotels Oran",
+  "description_htl25": "L'établissement Liberté Hotels Oran se trouve à Oran, à 11 km de la forteresse Santa Cruz. Il propose une terrasse, un restaurant, un bar et un parking privé gratuit. Tous les hébergements offrent une vue sur la ville avec accès à un sauna et bain à remous.\n\nLes chambres comprennent climatisation, bureau, bouilloire, minibar, coffre-fort, TV écran plat et salle de bains privative avec douche.\n\nPetit-déjeuner buffet ou halal servi sur place. Personnel trilingue (arabe, anglais, français). Aéroport d'Oran à 13 km (navette gratuite disponible).",
+  "street_usto": "zone des sièges USTO",
+  "nearby_santa_cruz_8km": "Forteresse Santa Cruz d'Oran (8 km)",
+  "nearby_mistral": "Le Mistral (1,2 km)",
+  "nearby_lebanon": "Café Lebanon (800 m)",
+  "nearby_sable_dor": "Café le Sable d'Or (1,7 km)",
+  "nearby_airport": "Aéroport Ahmed Ben Bella (13 km)",
+
+  "rule_navette_valueee": "Gratuite vers aéroport",
+ 
+  "rule_animaux_valueee": "Non admis",
+  "Hotels_a": "Hôtels à",
+  "Aucun_hotel_disponible": "Aucun hôtel disponible pour cette destination"
+,"par_nuit": "nuit",
+ "Continuer_la_reservation": "Continuer la réservation",
+  "Mes_Réservations": "Mes Réservations",
+    "Supprimer tout": "Supprimer tout",
+  "Voulez_vous_supprimer_toutes_les_notifications": "Voulez-vous supprimer toutes les notifications ?",
+
+  "Confirmer": "Confirmer",
+  "Notifications": "Notifications",
+  "Tout supprimer": "Tout supprimer",
+  "Aucune_notification": "Aucune notification",
+
+   "hotel_search_title": "Recherche d'hôtel",
+  
+  "hotel_name_optional": "Nom de l'hôtel (optionnel)",
+  "Pays_de_destination": "Pays de destination",
+  "Ville_ou_Province": "Ville ou Province",
+  
+  "Durée_du_séjour": "Durée du séjour :",
+  
+  "Champs_manquants": "Champs manquants",
+  "select_stay_dates": "Veuillez sélectionner les dates de séjour"
+ ,
+ "country": "Pays",
+  "province": "Ville / Province",
+  "gender":"Genre",
+  "confirm_reservation":"Confirmer la réservation",
+  "Moyen_de_paiement_non_sélectionné":"Moyen de paiement non sélectionné"
+
+,
+ "Confirmation_de_Réservation": "Confirmation de réservation",
+  "Dates_de_séjour": "Dates de séjour",
+ 
+  "À_proximité": "À proximité",
+  "Total_de_votre_séjour": "Total de votre séjour",
+  "Réservation_avec_Succes": "Réserver maintenant",
+  "Confirmation_réussie": "Réservation confirmée"
+ ,"Commodités": "Commodités",
+   "Réservation_hôtelière_confirmée_🎉": "Réservation hôtelière confirmée 🎉",
+  "Votre_séjour_est_confirmé": "Votre séjour à {name} est confirmé"
+,
+  "booking_nights_price": "{nights} nuits × {price} DA/nuit"
+  ,
+    "Conseil_voyage": "Conseil voyage",
+  "Météo_favorable_détectée": "Météo favorable détectée",
+  "Vent": "Vent",
+  "Humidité": "Humidité",
+  "IndiceUV": "Indice UV",
+  "Prévision_météo_15-22_Août_2025": "Prévision météo 15-22 Août 2025",
+  "Fermer": "Fermer",
+  
+
+  "day_Mon": "Lun",
+  "day_Tue": "Mar",
+  "day_Wed": "Mer",
+  "day_Thu": "Jeu",
+  "day_Fri": "Ven",
+  "day_Sat": "Sam",
+  "day_Sun": "Dim",
+
+   "month_Jan": "janvier",
+  "month_Feb": "février",
+  "month_Mar": "mars",
+  "month_Apr": "avril",
+  "month_May": "mai",
+  "month_Jun": "juin",
+  "month_Jul": "juillet",
+  "month_Aug": "août",
+  "month_Sep": "septembre",
+  "month_Oct": "octobre",
+  "month_Nov": "novembre",
+  "month_Dec": "décembre",
+   "Bagage_Cabine": "Bagage cabine",
+  "Bagage_en_Soute": "Bagage en soute",
+  "Bagage_Premium": "Bagage premium",
+  "1_bagage_main_10kg_max": "1 bagage à main (max 10kg)",
+  "+23kg": "+23 kg",
+  "+32kg": "+32 kg",
+  "Sélection_des_bagages": "Sélection des bagages",
+  "Vous_devez_vous_connecter_pour_procéder_à_la_réservation": "Vous devez vous connecter pour procéder à la réservation.",
+  "Gratuit": "Gratuit",
+  
+  "Veuillez_vou_connecter_pour_continuer": "Veuillez vous connecter pour continuer."
+   , "selected_baggage": "Bagage sélectionné",
+
+  "passport": "Passeport",
+   "🛫_Voir_les_détails_du_vol": "🛫 Voir les détails du vol",
+  "📍_Départ": "📍 Départ",
+  "📍_Arrivée": "📍 Arrivée",
+  "🔁_Retour": "🔁 Retour",
+  "📍_Destination": "📍 Destination",
+  "Oran_(Ahmed_Ben_Bella)": "Oran (Ahmed Ben Bella)",
+  "🕒_15_Août_2025_08_30": "🕒 15 Août 2025 – 08:30",
+  "Barcelone_(El_Prat)": "Barcelone (El Prat)",
+  "🕓_15_Août_2025_10_00": "🕓 15 Août 2025 – 10:00",
+  
+  "🕘_22_Août_2025_10_30": "🕘 22 Août 2025 – 10:30",
+  "Oran": "Oran",
+  "🕤_22_Août_2025_11_20": "🕤 22 Août 2025 – 11:20",
+  "💵_Prix_Total": "💵 Prix Total",
+    "Offre_spéciale_voyageurs": "Offre spéciale voyageurs\n",
+  "Découvrez_des_promotion_jusqu_a_15%_de_réduction": "Découvrez des promotions jusqu'à 15% de réduction"
+,
+"Confirmation_de_réservation_du_vol": "Confirmation de réservation du vol",
+"Votre_paiement_a_été_accepté": "Votre paiement a été accepté"
+,
+"Clicker_ici_pour_Complétez_votre_voyage": "Cliquez ici pour compléter votre voyage",
+"Réservez_maintenant_votre_hôtel": "Réservez maintenant votre hôtel"
+,
+"Votre_réservation_est_confirmée_pour": "Votre réservation de {car} est confirmée !"
+,
+  "our_offers": "Nos offres",
+  "duration": "Durée",
+  "days": "jours",
+  "hotels": "hôtels",
+  "available": "disponibles",
+  "stars": "étoiles",
+  "organized_trips": "Voyages organisés",
+  "no_hotels_available": "Aucun hôtel disponible pour ce voyage",
+  "Details": "Détails",
+  "departure": "Départ",
+  "departure_date": "Date de départ",
+  "return_date": "Date de retour",
+  "departure_time": "Heure de départ",
+ 
+  "tickets": "Billets disponibles",
+  "available_rooms": "Chambres disponibles",
+ 
+  "Excursions_pendant_le_voyage": "Excursions pendant le voyage",
+  "adult": "Adulte",
+  "child": "Enfant",
+  "location": "Localisation",
+  "points_of_interest": "Points d'intérêt à proximité",
+  "make_reservation": "Faire une réservation",
+  "room_type": "Type de chambre",
+  
+  "cancel": "Annuler",
+ 
+  "must_be_logged_in": "Vous devez être connecté pour réserver",
+  "reservation_success": "Réservation effectuée avec succès",
+  "reservation_failed": "Échec de la réservation",
+ 
+ 
+
+ "hotel_services": {
+  "free_parking": "Parking gratuit",
+  "wifi": "WiFi",
+  "gym": "Salle de sport",
+  "pool": "Piscine",
+  "breakfast": "Petit-déjeuner",
+  "bike_rental": "Location de vélos",
+  "airport_shuttle": "Navette aéroport",
+  "air_conditioning": "Climatisation",
+  "private_balcony": "Balcon privé",
+  "restaurant": "Restaurant",
+  "elevator": "Ascenseur"
+}
+,
+"room_types": {
+  "triple": "Triple",
+  "double": "Double",
+  "single": "Simple",
+  "suite": "Suite",
+  "family": "Familiale",
+  "non_smoking": "Non-fumeurs",
+  "smoking": "Fumeurs"
+},
+"extras": {
+  "camel_ride": "Balade en dromadaire",
+  "quad_ride": "Randonnée en Quad",
+  "khaima_evening": "Soirée traditionnelle sous Khaima",
+  "bosphorus_cruise": "Croisière sur le Bosphore",
+  "city_bus_tour": "Tour de ville en bus panoramique",
+  "princess_island_day": "Journée à la Princesse Island"
+, "camel_ride_desc": "Traversée des dunes au coucher du soleil avec des dromadaires accompagnés de guides locaux. Durée : 2h. Départ quotidien à 17h.",
+  "quad_ride_desc": "Aventure adrénaline dans le désert avec circuits adaptés à tous les niveaux. Équipement de protection fourni. Session matinale à 9h.",
+  "khaima_evening_desc": "Dîner typique sous tente bédouine avec musique Chaabi en live. Dégustation de thé à la menthe et spectacle folklorique. Début à 19h30.",
+  "bosphorus_cruise_desc": "Le 1er jour, profitez d’une croisière magique sur le Bosphore. Départ à 15h. Admirez les palais ottomans, les maisons en bois et les ponts emblématiques d’Istanbul.",
+  "city_bus_tour_desc": "Le 2e jour, embarquez à 8h du matin pour un tour de la ville d’Istanbul en bus touristique. Découvrez Sainte-Sophie, le Palais de Topkapi et la place Taksim.",
+  "princess_island_day_desc": "Le 3e jour, départ en bateau vers les îles des Princesses à 9h. Visite guidée, balade en calèche, déjeuner en bord de mer et retour à 17h."
+},
+"description11": "💕 Istanbul Juillet 2025 💕\nL’établissement NL Amsterdam Hotel bénéficie d’un emplacement de choix dans le quartier Fatih d'Istanbul, à proximité de nombreux sites touristiques. Il propose une réception 24h/24, des transferts aéroport et une connexion Wi-Fi gratuite dans l’ensemble de ses locaux.\n\n📌 *Informations importantes* :\n- Un visa est requis pour voyager en Turquie.\n- Pour plus d’informations, veuillez contacter l’agence **VoyageTurk** au **+213 6 55 00 00 11**.",
+"description2": "🌴 Séjour authentique dans le Sahara Algérien 🌴\nLe complexe touristique N°1 de Oued El Alenda offre une expérience saharienne unique avec ses chambres confortables et ses équipements premium. Profitez des balades en dune et des soirées traditionnelles sous les étoiles.\n\n📌 *Informations supplémentaires* :\n- Pour plus d’informations, veuillez contacter l’agence **Sahara Tour** au **+213 6 55 00 00 22**."
+,
+  "JJ/MM/AAAA": "JJ/MM/AAAA",
+  "Date_de_naissance": "Date de naissance"
+
+,  "address_istanbul1": "İnkılap Caddesi No: 26/1, Fatih, 34096 Istanbul, Turquie",
+  "address_oued_el_alenda": "N16 Route de Touggourt, Oued El Alenda 39069, Algérie"
+,  "flight_date": "Date",
+  "flight_company": "Compagnie",
+  "flight_class": "Classe",
+  "flight_direct": "Vol direct",
+  "flight_stop_count": "{} escale(s)",
+  "flight_go": "Aller",
+  "flight_return": "Retour",
+    "car_agency": "Agence",
+  "car_pickup_date": "Date de récupération",
+    "hotel_destination": "Destination",
+  "hotel_stars": "Étoiles",
+ 
+  "price": "Prix",
+  "Vol_aller_retour": "Vol aller-retour",
+    "Destination": "Destination",
+  "Ville_de_départ": "Ville de départ",
+  "Date": "Date",
+  "Type_de_chambre": "Type de chambre",
+ 
+  "Services_de_l_hôtel": "Services de l'hôtel",
+  "Description_du_voyage": "Description du voyage"
+,
+ "Résumé_de_la_Réservation": "Résumé de la Réservation",
+  "Confirmation_de_réservation": "Confirmation de réservation",
+  "Type_de_Chambre": "Type de Chambre",
+ 
+"Durée": "Durée",
+"jours": "jours",
+  "confirm_annulation": "Confirmer l'annulation",
+  "annuler_reservation": "Voulez-vous vraiment annuler cette réservation ?",
+ 
+  "confirmer": "Confirmer",
+  "reservation_annuler": "Réservation annulée avec succès.",
+  "delete_error": "Une erreur est survenue lors de l'annulation."
+,
+  "my_reservations": "Mes réservations",
+  "Mes_Favoris": "Mes favoris",
+    "about_us_title": "Qui sommes-nous ?",
+  "about_us_description": "Vacancia est une application mobile développée dans le cadre d’un projet de licence. Elle permet aux utilisateurs de réserver facilement des hôtels, des voitures, des vols et des voyages organisés, en quelques clics. L'application regroupe toutes les offres touristiques dans une seule plateforme, avec une interface intuitive, rapide et adaptée aux besoins des voyageurs.",
+  "our_mission": "Notre mission",
+  "about_us_mission_description": "Faciliter toutes les étapes de la réservation touristique en centralisant les services essentiels dans une seule application, tout en offrant un service rapide, accessible et fiable.",
+  "contact_us": "Contactez-nous",
+   "reviews": "Avis",
+  "login_to_review": "Connectez-vous pour laisser un avis",
+  "add_review": "Ajoutez votre avis",
+  "rating": "Note",
+  "write_your_review": "Écrivez votre avis ici...",
+  "submit_review": "Envoyer l'avis",
+  "review_empty_warning": "Veuillez écrire quelque chose dans votre avis",
+  "review_added": "Avis ajouté avec succès !",
+  "review_error": "Échec de l’ajout de l’avis",
+  "error_loading_reviews": "Erreur lors du chargement des avis",
+  "no_reviews_yet": "Aucun avis pour le moment. Soyez le premier à en laisser un !",
+  "edit_review": "Modifier l’avis",
+
+  "update": "Mettre à jour",
+  "review_updated": "Avis mis à jour avec succès !",
+  "review_update_error": "Échec de la mise à jour de l’avis",
+  "delete_review": "Supprimer l’avis",
+  "confirm_delete_review": "Êtes-vous sûr de vouloir supprimer cet avis ?",
+  "review_deleted": "Avis supprimé avec succès !",
+  "review_delete_error": "Échec de la suppression de l’avis",
+ "delete": "Supprimer",
+  "Veuillez_vérifier_votre_email_dans_votre_boite_Mail": "Veuillez vérifier votre email dans votre boîte mail",
+  "Bienvenue_Admin": "Bienvenue, administrateur",
+  "Bienvenue_chez": "Bienvenue chez nous",
+  "connect_to_view_reservations": "Connectez-vous pour voir vos réservations",
+  "Aucun_hôtel_favori": "Aucun hôtel favori",
+  "Aucune_Réservation_Trouver": "Aucune réservation trouvée",
+  "Total_a_payer": "Total à payer",
+  "Réservation_Confirmée_!": "Réservation Confirmée !",
+    "Connectez_vous_pour_ajouter_aux_favoris": "Connectez-vous pour ajouter aux favoris",
+  "Connexion_requise": "Connexion requise",
+  "Veuillez_vous_connecter": "Veuillez vous connecter",
+ 
+  "Enregistrer_votre_vol": "Enregistrer votre vol",
+ 
+  "no_reservations_found": "Aucune réservation trouvée"
+ 
+
+
+
+
+  
+
+
+
+
+
+
+
+ 
+  
+
+
+
+
+
+    
+    
+    
+  
+  
+
+
+
+                                        
+                                      
+
+                                  
+                                  
+                                
+                               
+                              
+                            
+                          
+                    
+                        
+                  
+                      
+                      
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+     
+  }
+  

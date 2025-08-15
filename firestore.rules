@@ -1,0 +1,84 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    match /car_searches/{docId} {
+      allow create: if request.auth != null && request.resource.data.userId == request.auth.uid;
+      allow read, update, delete: if false;
+    }
+
+    match /chat_help/{docId} {
+      allow create: if true; // ou "if request.auth != null;" si besoin de restreindre
+    }
+
+    match /users/{userId} {
+   
+
+      allow read, update, delete: if request.auth != null && request.auth.uid == userId;
+      allow create: if request.auth != null ;
+      // && request.auth.uid == userId;
+       allow write:  if request.auth != null && request.auth.uid == userId;
+   
+   function isValidData() {
+        return request.resource.data.keys().hasAll(['email', 'country', 'currency']) &&
+               request.resource.data.size() <= 20 &&
+               request.resource.data.country is string &&
+               request.resource.data.currency is string;
+      }
+      match /users/{userId}/volSummaries/{docId} {
+        allow read, write, create: if request.auth != null && request.auth.uid == userId;
+      }
+    }
+     
+      allow write: if isValidData();
+       // pour voiture:
+  match /reservations/{reservationId} {
+      
+      allow create: if request.auth != null && request.resource.data.userId == request.auth.uid;
+      allow read, update, delete: if request.auth != null && resource.data.userId == request.auth.uid;
+     allow read: if resource.data.reservationType == 'car';
+    // allow create: if request.auth != null &&  request.auth.uid== userId;
+    //   allow read, update, delete: if request.auth != null && request.auth.uid== userId;
+     }
+     // pour les vols :
+     match /users/{userId}/reservations/{reservationId} {
+  allow create: if request.auth != null && request.auth.uid == userId;
+  allow read, update, delete: if request.auth != null && request.auth.uid == userId;
+   allow read: if resource.data.reservationType == 'flight' ;
+  }
+
+     // ✅ Nouvelle collection : réservations pour voyages organisés
+  match /organized_trips_reservations/{docId} {
+  allow create: if request.auth != null; // 🔓 temporaire pour test
+  allow read, update, delete: if request.auth != null;
+   allow read: if resource.data.reservationType == 'trip' ;
+  }
+
+
+  match /users/{userId}/volSummaries/{docId} {
+  allow create: if request.auth != null && request.auth.uid == userId;
+   allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+  
+
+
+    match /bookings/{bookingId} {
+      allow read, write: if request.auth != null && request.auth.uid == resource.data.userId;
+    }
+      match /hotel_reservations/{reservationId} {
+      allow create: 
+        if request.auth != null 
+        && request.resource.data.userId == request.auth.uid
+        && request.resource.data.keys().hasAll([
+          'hotelId',
+          'checkInDate', 
+          'checkOutDate',
+          'totalPrice'
+        ]);
+
+      allow read, update, delete: 
+        if request.auth != null 
+        && resource.data.userId == request.auth.uid;
+    }
+  }
+}
